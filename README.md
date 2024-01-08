@@ -12,4 +12,3 @@ List of projects within Python as follows;
   
 5. - [Python Projects 05 : Tip Calculator](./P-05-Tip-Calculator/README.md)
 
-P-05-Tip-Calculator/README.md
