@@ -9,3 +9,6 @@ List of projects within Python as follows;
 3. - [Flask Projects 03 : Handling SQL with Flask Web Application](./P-03-Handling-SQL-with-Flask-Web-Application/README.md)
   
 4. - [Python Projects 04 : Brand Name Generator](./P-04-Brand-Name-Generator/README.md)
+  
+5. - [Python Projects 05 : Tip Calculator](./P-05-Tip-Calculator/README.md)
+
