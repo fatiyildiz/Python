@@ -29,4 +29,4 @@ But on line 38 we are trying to prevent a crash by detecting any numbers great t
 So what's going on? Can you debug the code and fix it?
 
 # Solution to the debugging challenge
-
+https://github.com/fatiyildiz/Python/blob/main/P-07-Rock-Paper-Scissors/main.py
