@@ -13,3 +13,5 @@ List of projects within Python as follows;
 5. - [Python Projects 05 : Tip Calculator](./P-05-Tip-Calculator/README.md)
 
 6. - [Python Projects 06 : Treasure Island](./P-06-Treasure-Island/README.md)
+  
+7. - [Python Projects 07 : Rock Paper Scissors](./P-07-Rock-Paper-Scissors/README.md)
