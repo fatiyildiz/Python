@@ -44,3 +44,4 @@ And every time you generate a password, the positions of the symbols, numbers, a
 
 # Solution 
 
+https://github.com/fatiyildiz/Python/blob/main/P-08-Password-Generator/main.py
