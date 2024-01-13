@@ -15,3 +15,5 @@ List of projects within Python as follows;
 6. - [Python Projects 06 : Treasure Island](./P-06-Treasure-Island/README.md)
   
 7. - [Python Projects 07 : Rock Paper Scissors](./P-07-Rock-Paper-Scissors/README.md)
+  
+8. - [Python Projects 08 : Password Generator](./P-08-Password-Generator/README.md)
